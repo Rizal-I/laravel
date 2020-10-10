@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Rizal
+                    Laravel Rizal From Git push cli
                 </div>
 
                 <div class="links">
